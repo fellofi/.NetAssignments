@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ShVjSV/ohDOuvCiQLvWsZmCWYUhHgWT3Iq8OfPhCB8U2PPnempJj1TwdEoZJzZhZ3zrW11yOedM0e8iJMZ/PsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kdine\\source\\repos\\Assignment1\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kdine\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kdine\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kdine\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kdine\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

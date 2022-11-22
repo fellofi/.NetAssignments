@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kdine\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kdine\\.nuget\\packages"
+    ]
+  }
+}
